@@ -1,4 +1,4 @@
-# Hi,I am @TrickyNoodle 😎
+# Hi,I am @TrickyNoodle - A CSE Undergrad from India 😎
 ## I am good at 🎯
 > ###  <pre> C,Java,GDScript,HTML CSS and JS </pre>
 ## Frameworks i have used:
