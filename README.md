@@ -8,3 +8,4 @@
 I dont have a clear goal in my mind on what should i do next,but i do have interest in various technologies and,yes i would like to learn some of them,and make something good on it(thats my goal so far...
 ## Currently Exploring 🚀
 ### <pre> Web Technology and AI</pre>
+![LeetCode Stats](https://leetcard.jacoblin.cool/TrickyNoodle?theme=chartreuse&font=Mina&ext=heatmap)
